@@ -2,7 +2,7 @@
 ## Student : Christopher Mastrangelo
 
 ## Overview of Project: 
-Using a data file of votes cast, compute the election results, totals per candidate, totals per county, and percentages to determine the winner with the highest percentage of votes.
+The purpose was to complete an election audit for the election commission and certify the election results of an election held in Colorado. Using a data file of votes cast, compute the election results, totals per candidate, totals per county, and percentages to determine the winner with the highest percentage of votes.
 
 Screen capture showing the winning candidate. their total votes, and percentage of total votes cast.
 
@@ -10,7 +10,7 @@ Screen capture showing the winning candidate. their total votes, and percentage 
 
 Almost 370,000 votes were cast in this election with the majority of votes cast in Denver county (306,055).
 
-The winning candidate is Diana DeGette who received 272,892 votes which represents 73.8 percent of the total votes cast.
+> The winning candidate is Diana DeGette who received 272,892 votes which represents 73.8 percent of the total votes cast.
 
 
 
